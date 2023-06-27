@@ -1,9 +1,9 @@
 # Thanks and Acknowledgements
 
 ## CDC
-* Lucas Gosdin [@lgosdin](https://github.com/lgosdin)
 * Samantha Distler [@samdistler](https://github.com/samdistler)
 * Suzy Newton [@sunewton](https://github.com/sunewton)
+* Lucas Gosdin [@lgosdin](https://github.com/lgosdin)
 * Daniel Chang [@dchang28](https://github.com/dchang28) 
 * Van Tong
 * Kate Woodworth
