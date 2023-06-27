@@ -81,7 +81,7 @@ Note: if installation fails, try running the command again.
 
 The code is housed in a Github repository which can be downloaded to a local hard drive. Open a command terminal (or Miniconda prompt on Windows) and browse to a disk location where the SET-NET code should be downloaded. Clone the git repository with this command:
 
-	git clone https://github.com/CDCgov/pregnancycovidseverity/tree/master/OpenSourceCode
+ 	git clone https://github.com/CDCgov/SET-NET/tree/master/pregnancycovidseverity/OpenSourceCode
 
 ### Run the Code
 
