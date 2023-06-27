@@ -8,7 +8,7 @@ The Surveillance for Emerging Threats to Pregnant People and Infants Network ([S
 
 This repository will hold code for various SET-NET projects, including:  
 * Categorization of Birth Defects 
-* Automated Classification of COVID-19 Illness Severity during Pregnancy 
+* [Automated Classification of COVID-19 Illness Severity during Pregnancy](https://github.com/CDCgov/SET-NET/tree/master/pregnancycovidseverity)
 
 For more information about these projects and the relevant resources available in this repository, please see the README files for each project in their project-specific directories. 
   
