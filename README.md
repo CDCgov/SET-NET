@@ -7,7 +7,7 @@
 The Surveillance for Emerging Threats to Pregnant People and Infants Network ([SET-NET](https://www.cdc.gov/ncbddd/set-net/index.html)) aims to understand the effects of emerging and reemerging threats on pregnant people and their infants. SET-NET collects data about people exposed to an emerging or reemerging threat during pregnancy and their infants over time. These data are then used to inform clinical decision-making and public health action. For more information about SET-NET see: www.cdc.gov/ncbddd/set-net/what-is-set-net.html 
 
 This repository will hold code for various SET-NET projects, including:  
-* Categorization of Birth Defects 
+* [Categorization of Birth Defects](https://github.com/CDCgov/SET-NET/tree/master/birthdefectcategorization)
 * [Automated Classification of COVID-19 Illness Severity during Pregnancy](https://github.com/CDCgov/SET-NET/tree/master/pregnancycovidseverity)
 
 For more information about these projects and the relevant resources available in this repository, please see the README files for each project in their project-specific directories. 
