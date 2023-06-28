@@ -10,7 +10,7 @@ This repository contains code for various SET-NET projects, including:
 * [Categorization of Birth Defects with Automated Approaches](https://github.com/CDCgov/SET-NET/tree/master/birthdefectcategorization)
 * [Automated Classification of COVID-19 Illness Severity during Pregnancy](https://github.com/CDCgov/SET-NET/tree/master/pregnancycovidseverity)
 
-For more information about these projects and the relevant resources available in this repository, please see the README files for each project in their project-specific directories. 
+For more information about these projects and the relevant resources available in this repository, please see each project's README file in the project-specific directories. 
   
 ## Public Domain Standard Notice
 This repository constitutes a work of the United States Government and is not
