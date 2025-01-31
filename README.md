@@ -1,10 +1,10 @@
-# SET-NET: The Surveillance for Emerging Threats to Pregnant People and Infants Network
+# SET-NET: The Surveillance for Emerging Threats to Mothers and Babies Network
 
 **General disclaimer** This repository was created for use by CDC programs to collaborate on public health related projects in support of the [CDC mission](https://www.cdc.gov/about/organization/mission.htm).  GitHub is not hosted by the CDC, but is a third party website used by CDC and its partners to share information and collaborate on software. CDC use of GitHub does not imply an endorsement of any one particular service, product, or enterprise. 
 
 ## Overview
 
-CDC's [Surveillance for Emerging Threats to Pregnant People and Infants Network (SET-NET)](https://www.cdc.gov/ncbddd/set-net/index.html) aims to understand the effects of emerging and reemerging threats on pregnant people and their infants. SET-NET collects data about people exposed to an emerging or reemerging threat during pregnancy and their infants over time. These data are then used to inform clinical decision-making and public health action. For more information about SET-NET see: www.cdc.gov/ncbddd/set-net/what-is-set-net.html 
+CDC's [Surveillance for Emerging Threats to Mothers and Babies Network (SET-NET)](https://www.cdc.gov/ncbddd/set-net/index.html) aims to understand the effects of emerging and reemerging threats on pregnant women and their infants. SET-NET collects data about people exposed to an emerging or reemerging threat during pregnancy and their infants over time. These data are then used to inform clinical decision-making and public health action. For more information about SET-NET see: www.cdc.gov/ncbddd/set-net/what-is-set-net.html 
 
 This repository contains code for various SET-NET projects, including:  
 * [Categorization of Birth Defects with Automated Approaches](https://github.com/CDCgov/SET-NET/tree/master/birthdefectcategorization)
